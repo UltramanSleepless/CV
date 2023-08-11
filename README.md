@@ -1,2 +1,2 @@
 # CV
-The introduction of myself.
+The introduction of myself is written in the resume_main.pdf file.
